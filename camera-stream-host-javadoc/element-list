@@ -1,0 +1,6 @@
+com.umassboston.camerastreamhost
+com.umassboston.camerastreamhost.controller
+com.umassboston.camerastreamhost.dto
+com.umassboston.camerastreamhost.entity
+com.umassboston.camerastreamhost.repository
+com.umassboston.camerastreamhost.service

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.umassboston.camerastreamhost"},{"l":"com.umassboston.camerastreamhost.controller"},{"l":"com.umassboston.camerastreamhost.dto"},{"l":"com.umassboston.camerastreamhost.entity"},{"l":"com.umassboston.camerastreamhost.repository"},{"l":"com.umassboston.camerastreamhost.service"}];updateSearchResults();
